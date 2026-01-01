@@ -1,22 +1,22 @@
 {
-  "todos":[
-  {
-    "userId": 2,
-    "id": 29,
-    "title": "laborum aut in quam",
-    "completed": false
-  },
-  {
-    "userId": 2,
-    "id": 30,
-    "title": "nemo perspiciatis repellat ut dolor libero commodi blanditiis omnis",
-    "completed": true
-  },
-  {
-    "userId": 2,
-    "id": 31,
-    "title": "repudiandae totam in est sint facere fuga",
-    "completed": false
-  },
-  ],
+    "todos": [
+        {
+            "userId": 2,
+            "id": 29,
+            "title": "laborum aut in quam",
+            "completed": false
+        },
+        {
+            "userId": 2,
+            "id": 30,
+            "title": "nemo perspiciatis repellat ut dolor libero commodi blanditiis omnis",
+            "completed": true
+        },
+        {
+            "userId": 2,
+            "id": 31,
+            "title": "repudiandae totam in est sint facere fuga",
+            "completed": false
+        }
+    ]
 }
